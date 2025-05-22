@@ -29,7 +29,7 @@ const certData = [
   {
     title: "Code2servive by LearnIT",
     description:     "On 19th February 2025, I participated in Code2Survive, a competitive coding event organized by LearnIT at Manipal University Jaipur, in collaboration with IEEE societies such as AESS, MTT-S, and AP-S. The event featured a series of progressively challenging rounds that tested participants' programming logic, algorithmic thinking, and problem-solving speed. Successfully navigating these rounds required not just theoretical understanding but also the ability to write optimized and error-free code under time constraints. My active involvement and performance in this event underscore my enthusiasm for programming and my capability to tackle technical challenges head-on. It also provided an opportunity to engage with peers from various domains, boosting his collaborative and competitive spirit in the field of software development. ",
-    img: "Thumbnails/LearnIT_thumbnail.png",
+    img: "thumbnails/LearnIT_thumbnail.png",
     pdf: "certificates/LearnIT_certificate.pdf"
   }
 ];
